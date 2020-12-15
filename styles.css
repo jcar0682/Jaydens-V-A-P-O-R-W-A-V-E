@@ -1,0 +1,35 @@
+body{ 
+    font-family: 'Unlock', cursive;
+    color: lightgreen ;
+    background-image:url("https://media.giphy.com/media/tGm90Czg17Cs8/giphy.gif");
+        }
+        
+#container {
+    width: 910px;
+    height: auto;
+background-color: hotpink;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 10px; 
+  
+}
+
+.Howdee-do {
+   outline: 5px dotted lightgreen;
+    width: 800px;
+    }
+    
+    #DiannaRoss {
+   outline: 2px dashed lightgreen;
+    width: 240px;}
+    
+    a:hover { 
+    background-color: lightgreen;
+}
+    
+    
+    
+    
+    
+    
+    
